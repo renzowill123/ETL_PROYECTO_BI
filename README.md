@@ -39,3 +39,4 @@ Tablas Dimensión y Hechos
 # Visualización (Power BI)
 - Dashboard con métricas de ventas, desempeño y comparativos por categoría.  
 - Uso de segmentadores, gráficos dinámicos y KPIs.
+<img width="800" height="604" alt="Dashboard general" src="https://github.com/user-attachments/assets/15acf1ae-61bb-4419-b614-50cc103e8eda" />
