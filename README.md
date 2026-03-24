@@ -47,7 +47,8 @@ Tablas Dimensión y Hechos
 <img width="1264" height="802" alt="Dashboard Evolucion ventas" src="https://github.com/user-attachments/assets/400ed246-9809-4702-972f-f9d777e5ef5d" />
 
 # Panel de control metas
-<img width="1870" height="788" alt="image" src="https://github.com/user-attachments/assets/92afa32a-355c-45ee-9327-a6a2c5212fa8" />
+<img width="1413" height="792" alt="Dashboard metas" src="https://github.com/user-attachments/assets/e28f822c-4aa7-4d29-803b-bffa24618a29" />
+
 
 # Panel de indicadores clave de rendimiento
 <img width="1101" height="796" alt="KPIs ventas" src="https://github.com/user-attachments/assets/0698eb7f-e01d-4d51-b116-ff9990bf4670" />
